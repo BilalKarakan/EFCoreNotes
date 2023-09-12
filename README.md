@@ -1,1 +1,1 @@
-This repo contains Entity Framework Core 6.0 notes.
+This repo contains Entity Framework Core 7.0 notes.
